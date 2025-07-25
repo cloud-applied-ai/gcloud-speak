@@ -13,7 +13,7 @@ Talk to your Google Cloud Platform (GCP) environment directly from your command 
 
 ## ✨ How it Works
 
-[Your Tool Name Here] acts as an intelligent intermediary. When you type a command in natural language:
+gcloud-speak acts as an intelligent intermediary. When you type a command in natural language:
 
 1.  It sends your input to a Gemini model.
 2.  The Gemini model, through its reasoning capabilities, determines the appropriate `gcloud` command to fulfill your request.
